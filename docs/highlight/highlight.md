@@ -4,19 +4,20 @@
 
 ## การอัพเดต สไลด์ วอล์เปเปอร์ 
 
-<img src=imgs/img5.png />
+<img src=imgs/highlight_slider.png />
 
 <hr>
-<h2 style="text-align: center;">วิธีใช้งานสำหรับการอัพ สไลด์ วอล์เปเปอร์ ในหน้า highlight page</h2>
+
+## <h2 align="center">วิธีใช้งานสำหรับการอัพ สไลด์ วอล์เปเปอร์ ในหน้า highlight page</h2>
+
 <br/>
 
-1. เมื่อผู้ใช้งานได้เข้าสู่ระบบ admin แล้ว ให้ผู้ใช้งาน กดปุ่ม เมนู เพื่อเปิดเมนู
-
+### 1. เมื่อผู้ใช้งานได้เข้าสู่ระบบ admin แล้ว ให้ผู้ใช้งาน กดปุ่ม <img height="40" src=imgs/button_menu.png /> เพื่อเปิดเมนู <a href=/docs/recommend/recommend.md#-2-แทบเมนู >เพิ่มเติม</a>
 <img src=imgs/img0.png />
 <br/>
 <br/>
 
-2. จากนั้นเลือก เมนู Components
+### 2. จากนั้นเลือก เมนู Components <a href=/docs/recommend/recommend.md#-3-เปิดแทบเมนู >เพิ่มเติม</a>
 
 <img src=imgs/img1.png />
 <br/>
@@ -53,9 +54,9 @@
 
 > 4.8 กำหนด style 
 
-> 4.9 แก้ไข หรือ อัพเดต  wallpaper <img src=imgs/img11.png /> กด <img style="height:40px" src=imgs/img12.png /> เพื่อยืนยันการแก้ไข และเมื่อกดปุ่ม <img style="height:40px" src=imgs/img13.png /> เพื่อยกเลิกการแก้ไข
+> 4.9 แก้ไข หรือ อัพเดต  wallpaper <img src=imgs/img11.png /> กด <img height="40" src=imgs/img12.png /> เพื่อยืนยันการแก้ไข และเมื่อกดปุ่ม <img height="40" src=imgs/img13.png /> เพื่อยกเลิกการแก้ไข
 
-> 4.10 ลบ wallpaper  <img src=imgs/img14.png />กด <img style="height:40px" src=imgs/img12.png /> เพื่อยืนยันการลบ และเมื่อกดปุ่ม <img style="height:40px" src=imgs/img13.png /> เพื่อยกเลิกการลบ
+> 4.10 ลบ wallpaper  <img src=imgs/img14.png />กด <img height="40" src=imgs/img12.png /> เพื่อยืนยันการลบ และเมื่อกดปุ่ม <img height="40" src=imgs/img13.png /> เพื่อยกเลิกการลบ
 
 
 > 4.11 ค้นหา wallpaper ที่ต้องการ เช่น id ของ wallpaper, ชื่อ ของ wallpaper เป็นต้น
@@ -75,7 +76,7 @@
 <img src=imgs/img7.png />
 
 <hr/>
-<h2 style="text-align: center;">วิธีใช้งานสำหรับการอัพ วิดีโอ ในหน้า highlight page</h2>
+<h2 align="center">วิธีใช้งานสำหรับการอัพ วิดีโอ ในหน้า highlight page</h2>
 <br/>
 
 1. เมื่อผู้ใช้งานได้เข้าสู่ระบบ admin แล้ว ให้ผู้ใช้งาน กดปุ่ม เมนู เพื่อเปิดเมนู
@@ -121,9 +122,9 @@
 
 > 4.8 กำหนด style 
 
-> 4.9 แก้ไข หรือ อัพเดต  Wallpaper by Video  <img src=imgs/img15.png /> กด <img style="height:40px" src=imgs/img12.png /> เพื่อยืนยันการแก้ไข และเมื่อกดปุ่ม <img style="height:40px" src=imgs/img13.png /> เพื่อยกเลิกการแก้ไข
+> 4.9 แก้ไข หรือ อัพเดต  Wallpaper by Video  <img src=imgs/img15.png /> กด <img height="40" src=imgs/img12.png /> เพื่อยืนยันการแก้ไข และเมื่อกดปุ่ม <img height="40" src=imgs/img13.png /> เพื่อยกเลิกการแก้ไข
 
-> 4.10 ลบ Wallpaper by Video <img src=imgs/img14.png />กด <img style="height:40px" src=imgs/img12.png /> เพื่อยืนยันการลบ และเมื่อกดปุ่ม <img style="height:40px" src=imgs/img13.png /> เพื่อยกเลิกการลบ
+> 4.10 ลบ Wallpaper by Video <img src=imgs/img14.png />กด <img height="40" src=imgs/img12.png /> เพื่อยืนยันการลบ และเมื่อกดปุ่ม <img height="40" src=imgs/img13.png /> เพื่อยกเลิกการลบ
 
 > 4.11 ค้นหา Wallpaper by Video ที่ต้องการ เช่น id ของ Wallpaper by Video, ชื่อ ของ Wallpaper by Video เป็นต้น
 
