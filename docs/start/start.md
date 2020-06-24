@@ -5,20 +5,20 @@
 > ใช้แสดง ยอดผู้ใช้งานที่เข้าชมเว็บ
 
 <img src=imgs/home_page.png>
-<p style="text-align: center;"> รูปที่ 1 หน้า home page</p>
+<p align="center"> รูปที่ 1 หน้า home page</p>
 
 ### 2. แทบเมนู
 > ผู้ใช้งานสามารถกดเลือกที่ปุ่มแทบเมนูเพื่อ ไปยังหน้านั้นๆ
 
 <img src=imgs/tab_menu_not_open.png>
-<p style="text-align: center;"> รูปที่ 2 แทบเมนู ที่ยังไม่ได้เปิด</p>
+<p align="center"> รูปที่ 2 แทบเมนู ที่ยังไม่ได้เปิด</p>
 
 ### 3. เปิดแทบเมนู
 > ผู้ใช้งานสามารถ กดปุ่ม <img style="height:40px" src=imgs/button_menu.png /> เพื่อเปิดเมนู
 
 <img src=imgs/tab_menu_open.png>
-<p style="text-align: center;"> รูปที่ 3 แทบเมนู </p>
-<p style="text-align: center;"> เมนูแต่ละเมนู จะนำพาไปสู่หน้านั้นๆ ตามชื่อของเมนู </p>
+<p align="center"> รูปที่ 3 แทบเมนู </p>
+<p align="center"> เมนูแต่ละเมนู จะนำพาไปสู่หน้านั้นๆ ตามชื่อของเมนู </p>
 
 ### 4. ตาราง
 > ใช้จัดการหน้าเพจ ต่างๆ หรือ ใช้ในการดูข้อมูล เช่น ข้อมูลการสั่งซื้อ, ข้อมูลสินค้า, และ อื่นๆ
@@ -26,7 +26,7 @@
 
 <img src=imgs/table.png>
 <img src=imgs/table_detail.png>
-<p style="text-align: center;"> รูปที่ 4 ตาราง </p>
+<p align="center"> รูปที่ 4 ตาราง </p>
 
 >4. 1 ชื่อของตาราง
 
