@@ -12,12 +12,12 @@
 
 <br/>
 
-### 1. เมื่อผู้ใช้งานได้เข้าสู่ระบบ admin แล้ว ให้ผู้ใช้งาน กดปุ่ม <img height="40" src=imgs/button_menu.png /> เพื่อเปิดเมนู <a href=/docs/recommend/recommend.md#-2-แทบเมนู >เพิ่มเติม</a>
+### 1. เมื่อผู้ใช้งานได้เข้าสู่ระบบ admin แล้ว ให้ผู้ใช้งาน กดปุ่ม <img height="40" src=imgs/button_menu.png /> เพื่อเปิดเมนู <a href=/docs/recommend/recommend.md#2-แทบเมนู >เพิ่มเติม</a>
 <img src=imgs/img0.png />
 <br/>
 <br/>
 
-### 2. จากนั้นเลือก เมนู Components <a href=/docs/recommend/recommend.md#-3-เปิดแทบเมนู >เพิ่มเติม</a>
+### 2. จากนั้นเลือก เมนู Components <a href=/docs/recommend/recommend.md#3-เปิดแทบเมนู >เพิ่มเติม</a>
 
 <img src=imgs/img1.png />
 <br/>
