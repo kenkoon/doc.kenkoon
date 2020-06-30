@@ -83,11 +83,11 @@
 
 > ### 3.15 เมนู wallpaper manager 
 
-<p align="center"><img src=imgs/menu_list_wallpaper_manager.png /></p><p align="center"> รูปที่ 3.15 เมนู wallpaper manager </p><p align="center"> เมื่อคลิกที่เมนู wallpaper manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >wallpaper manager</a></p>
+<p align="center"><img src=imgs/menu_list_wallpaper_manager.png /></p><p align="center"> รูปที่ 3.15 เมนู wallpaper manager </p><p align="center"> เมื่อคลิกที่เมนู wallpaper manager จะย้ายไปที่หน้า <a href=/docs/highlight/highlight.md#11-จัดการ-วอล์เปเปอร์-สไลด์ >wallpaper manager</a></p>
 
 > ### 3.16 เมนู wallpaper video manager 
 
-<p align="center"><img src=imgs/menu_list_wallpaper_by_video_manager.png /></p><p align="center"> รูปที่ 3.16 เมนู wallpaper video manager </p><p align="center"> เมื่อคลิกที่เมนู wallpaper video manager จะย้ายไปที่หน้า <a href=/docs/highlight/highlight.md#11-จัดการ-วอล์เปเปอร์-สไลด์ >wallpaper video manager</a></p>
+<p align="center"><img src=imgs/menu_list_wallpaper_by_video_manager.png /></p><p align="center"> รูปที่ 3.16 เมนู wallpaper video manager </p><p align="center"> เมื่อคลิกที่เมนู wallpaper video manager จะย้ายไปที่หน้า <a href=/docs/highlight/highlight.md#11-จัดการ-วิดีโอ-วอล์เปเปอร์ >wallpaper video manager</a></p>
 
 > ### 3.17 เมนู branch manager 
 
