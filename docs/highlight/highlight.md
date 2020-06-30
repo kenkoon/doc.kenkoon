@@ -10,7 +10,7 @@
 </p>
 
 ### 1.1 จัดการ วอล์เปเปอร์ สไลด์
-> เมื่อผู้ใช้งานต้องการอยากจะ `'แก้ไข เพิ่ม หรือ ลบ'`  วอล์เปเปอร์ สไลด์ ให้ผู้ใช้งานกดไปที่ เมนู <a href=/docs/recommend/recommend.md#-3.15-เมนู-wallpaper-manager >wallpaper manager</a></p>
+> เมื่อผู้ใช้งานต้องการอยากจะ `'แก้ไข เพิ่ม หรือ ลบ'`  วอล์เปเปอร์ สไลด์ ให้ผู้ใช้งานกดไปที่  <a href=/docs/recommend/recommend.md#315-เมนู-wallpaper-manager > เมนู wallpaper manager</a></p>
 
 <br/>
 <br/>
