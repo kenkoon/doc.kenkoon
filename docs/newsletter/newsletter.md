@@ -36,5 +36,5 @@
 >สำหรับลูกค้าที่ต้องการรับข่าวสารจากเรา และผู้ใช้งานต้องการอยากจะดูคำร้องข้อการรับข่าวสาร ผู้ใช้งานสามารถกดที่ <a href=/docs/recommend/recommend.md#33-เมนู-newslet-manager > เมนู newslet manager</a></p>
 ><p align="center" >
 ><img src=imgs/order_newsletter_page.png >
->รูปที่ 1 order newsletter page
+>รูปที่ 1.2 order newsletter page
 ></p>

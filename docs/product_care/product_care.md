@@ -33,3 +33,10 @@
 <br/>
 <br/>
 <br/>
+
+### 1.2 order product_care
+>สำหรับลูกค้าที่ต้องการรับข่าวสารจากเรา และผู้ใช้งานต้องการอยากจะดูคำร้องข้อการรับข่าวสาร ผู้ใช้งานสามารถกดที่ <a href=/docs/recommend/recommend.md#35-เมนู-order-dowload-product-care-manager > เมนู order product_care manager</a></p>
+><p align="center" >
+><img src=imgs/order_dowload_product_care_manager_page.png >
+>รูปที่ 1.2 order product_care page
+></p>

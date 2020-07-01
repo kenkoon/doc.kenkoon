@@ -42,3 +42,10 @@
 <br/>
 <br/>
 <br/>
+
+### 1.2 order product
+>สำหรับลูกค้าที่ต้องการรับข่าวสารจากเรา และผู้ใช้งานต้องการอยากจะดูคำร้องข้อการรับข่าวสาร ผู้ใช้งานสามารถกดที่ <a href=/docs/recommend/recommend.md#34-เมนู-order-product-manager > เมนู order product manager</a></p>
+><p align="center" >
+><img src=imgs/order_product_page.png >
+>รูปที่ 1.2 order product page
+></p>
