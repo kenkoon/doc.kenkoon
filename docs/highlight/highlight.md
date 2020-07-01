@@ -19,13 +19,14 @@
 
 ## ตาราง wallpaper manager
 
-| title | detail | type |
-| :-----: | :------: | :----:|
-| _id    | สำหรับเก็บ id ของ รูปภาพ | string |
-| title | สำหรับเก็บ ชื่อ ของ รูปภาพ | string |
-| image | สำหรับเก็บ ไฟล์ ของ รูปภาพ | object |
-| show | สำหรับแสดงผลของรูปภาพ บนหน้า highlight  | boolean |
-| opacity | สำหรับเก็บ opacity style ของ รูปภาพ | string |
+| title | detail | 
+| :-----: | :------: |
+| _id    | สำหรับเก็บ id ของ รูปภาพ | 
+| title | สำหรับเก็บ ชื่อ ของ รูปภาพ | 
+| image | สำหรับเก็บ ไฟล์ ของ รูปภาพ | 
+| show | สำหรับแสดงผลของรูปภาพ บนหน้า highlight  | 
+| opacity | สำหรับเก็บ opacity style ของ รูปภาพ | 
+| action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม  >แก้ไขข้อมูล</a> | 
 
 <br/>
 <br/>
