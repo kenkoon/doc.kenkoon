@@ -41,7 +41,7 @@
 > | sub_img7 | สำหรับเก็บ ไฟล์ ของ รูปภาพรอง รูปที่7 | 
 > | sub_img8 | สำหรับเก็บ ไฟล์ ของ รูปภาพรอง รูปที่8 | 
 > | sub_img9 | สำหรับเก็บ ไฟล์ ของ รูปภาพรอง รูปที่9 | 
-> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม  >แก้ไขข้อมูล</a> | 
+> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม >แก้ไขข้อมูล</a> | 
 
 <br/>
 <br/>

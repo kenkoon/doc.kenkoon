@@ -22,7 +22,7 @@
 > | :-----: | :------: |
 > | _id | สำหรับเก็บ id ของ product | 
 > | collection_id | สำหรับเก็บ id ของ collection เพื่อระบุว่า product นี้ อยู่ใน collection ไหน | 
->| collection_type | สำหรับจัดหมวดหมู่ ประเภท หรือ ชนิด ของ collection | 
+> | collection_type | สำหรับจัดหมวดหมู่ ประเภท หรือ ชนิด ของ collection | 
 > | number | เป็นลำดับของ product | 
 > | name | สำหรับเก็บ ชื่อ ของ product | 
 > | cols | สำหรับจัดรูปแบบ ของ product | 
@@ -37,15 +37,16 @@
 > | sub_img1 | สำหรับเก็บ ไฟล์ ของ รูปภาพรอง รูปที่1 | 
 > | sub_img2 | สำหรับเก็บ ไฟล์ ของ รูปภาพรอง รูปที่2 | 
 > | sub_img3 | สำหรับเก็บ ไฟล์ ของ รูปภาพรอง รูปที่3 | 
-> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม  >แก้ไขข้อมูล</a> | 
+> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม >แก้ไขข้อมูล</a> | 
 
 <br/>
 <br/>
 <br/>
 
 ### 1.2 order product
->สำหรับลูกค้าที่ต้องการรับข่าวสารจากเรา และผู้ใช้งานต้องการอยากจะดูคำร้องข้อการรับข่าวสาร ผู้ใช้งานสามารถกดที่ <a href=/docs/recommend/recommend.md#34-เมนู-order-product-manager > เมนู order product manager</a></p>
-><p align="center" >
-><img src=imgs/order_product_page.png >
->รูปที่ 1.2 order product page
-></p>
+
+> สำหรับลูกค้าที่ต้องการรับข่าวสารจากเรา และผู้ใช้งานต้องการอยากจะดูคำร้องข้อการรับข่าวสาร ผู้ใช้งานสามารถกดที่ <a href=/docs/recommend/recommend.md#34-เมนู-order-product-manager > เมนู order product manager</a></p>
+> <p align="center" >
+> <img src=imgs/order_product_page.png >
+> รูปที่ 1.2 order product page
+> </p>

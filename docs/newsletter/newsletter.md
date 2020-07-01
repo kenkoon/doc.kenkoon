@@ -26,15 +26,16 @@
 > | message_en | สำหรับเพิ่มรายละเอียด ของ newsletter เป็นภาษาอังกฤษ | 
 > | message_th | สำหรับเพิ่มรายละเอียด ของ newsletter เป็นภาษาไทย | 
 > | show | สำหรับแสดงผลของ newsletter แต่ละชิ้น บนหน้า newsletter  | 
-> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม  >แก้ไขข้อมูล</a> | 
+> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม >แก้ไขข้อมูล</a> | 
 
 <br/>
 <br/>
 <br/>
 
 ### 1.2 order newsletter
->สำหรับลูกค้าที่ต้องการรับข่าวสารจากเรา และผู้ใช้งานต้องการอยากจะดูคำร้องข้อการรับข่าวสาร ผู้ใช้งานสามารถกดที่ <a href=/docs/recommend/recommend.md#33-เมนู-newslet-manager > เมนู newslet manager</a></p>
-><p align="center" >
-><img src=imgs/order_newsletter_page.png >
->รูปที่ 1.2 order newsletter page
-></p>
+
+> สำหรับลูกค้าที่ต้องการรับข่าวสารจากเรา และผู้ใช้งานต้องการอยากจะดูคำร้องข้อการรับข่าวสาร ผู้ใช้งานสามารถกดที่ <a href=/docs/recommend/recommend.md#33-เมนู-newslet-manager > เมนู newslet manager</a></p>
+> <p align="center" >
+> <img src=imgs/order_newsletter_page.png >
+> รูปที่ 1.2 order newsletter page
+> </p>

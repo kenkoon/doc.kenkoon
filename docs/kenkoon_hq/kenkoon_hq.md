@@ -29,7 +29,7 @@
 > | img1 | สำหรับเก็บ ไฟล์ ของ รูปภาพที่1 | 
 > | img2 | สำหรับเก็บ ไฟล์ ของ รูปภาพที่2 | 
 > | img3 | สำหรับเก็บ ไฟล์ ของ รูปภาพที่3 | 
-> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม  >แก้ไขข้อมูล</a> | 
+> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม >แก้ไขข้อมูล</a> | 
 
 <br/>
 <br/>

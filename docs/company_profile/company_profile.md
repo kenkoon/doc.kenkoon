@@ -28,7 +28,7 @@
 > | detail1_th | สำหรับเพิ่มรายละเอียดที่1 ของ company profile เป็นภาษาไทย | 
 > | show | สำหรับแสดงผลของ company profile แต่ละชิ้น บนหน้า company profile  | 
 > | img | สำหรับเก็บ ไฟล์ ของ รูปภาพ | 
-> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม  >แก้ไขข้อมูล</a> | 
+> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม >แก้ไขข้อมูล</a> | 
 
 <br/>
 <br/>

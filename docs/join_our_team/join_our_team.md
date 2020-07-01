@@ -24,7 +24,7 @@
 > | message_en | สำหรับเพิ่มรายละเอียด ของ join our team เป็นภาษาอังกฤษ | 
 > | message_th | สำหรับเพิ่มรายละเอียด ของ join our team เป็นภาษาไทย | 
 > | show | สำหรับแสดงผลของ join our team แต่ละชิ้น บนหน้า join our team  | 
-> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม  >แก้ไขข้อมูล</a> | 
+> | action | สำหรับ <a href=/docs/recommend/recommend.md#47-เมื่อกดปุ่ม >ลบ</a> และ <a href=/docs/recommend/recommend.md#46-เมื่อผู้ใช้งานกดปุ่ม >แก้ไขข้อมูล</a> | 
 
 <br/>
 <br/>
