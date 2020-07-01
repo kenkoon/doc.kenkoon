@@ -31,37 +31,37 @@
 > <p align="center"><img src=imgs/menu_list_log_manager.png /></p><p align="center"> รูปที่ 3.2 เมนู log manager </p><p align="center"> เมื่อคลิกที่เมนู log manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >log manager</a></p>
 
 > #### 3.3 เมนู newslet manager 
-> <p align="center"><img src=imgs/menu_list_newslet_manager.png /></p><p align="center"> รูปที่ 3.3 เมนู newslet manager </p><p align="center"> เมื่อคลิกที่เมนู newslet manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >newslet manager</a></p>
+> <p align="center"><img src=imgs/menu_list_newslet_manager.png /></p><p align="center"> รูปที่ 3.3 เมนู newslet manager </p><p align="center"> เมื่อคลิกที่เมนู newslet manager จะย้ายไปที่หน้า <a href=/docs/newsletter/newsletter.md >newslet manager</a></p>
 
 > #### 3.4 เมนู order product manager 
-> <p align="center"><img src=imgs/menu_list_order_product_manager.png /></p><p align="center"> รูปที่ 3.4 เมนู order product manager </p><p align="center"> เมื่อคลิกที่เมนู order product manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >order product manager</a></p>
+> <p align="center"><img src=imgs/menu_list_order_product_manager.png /></p><p align="center"> รูปที่ 3.4 เมนู order product manager </p><p align="center"> เมื่อคลิกที่เมนู order product manager จะย้ายไปที่หน้า <a href=/docs/production/production.md >order product manager</a></p>
 
 > #### 3.5 เมนู order dowload product care manager 
-> <p align="center"><img src=imgs/menu_list_order_dowload_product_care_manager.png /></p><p align="center"> รูปที่ 3.5 เมนู order dowload product care manager </p><p align="center"> เมื่อคลิกที่เมนู order dowload product care manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >order dowload product care manager</a></p>
+> <p align="center"><img src=imgs/menu_list_order_dowload_product_care_manager.png /></p><p align="center"> รูปที่ 3.5 เมนู order dowload product care manager </p><p align="center"> เมื่อคลิกที่เมนู order dowload product care manager จะย้ายไปที่หน้า <a href=/docs/product_care/product_care.md >order dowload product care manager</a></p>
 
 > #### 3.6 เมนู order dowload catalogue manager 
-> <p align="center"><img src=imgs/menu_list_order_dowload_catalogue_manager.png /></p><p align="center"> รูปที่ 3.6 เมนู order dowload catalogue manager </p><p align="center"> เมื่อคลิกที่เมนู order dowload catalogue manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >order dowload catalogue manager</a></p>
+> <p align="center"><img src=imgs/menu_list_order_dowload_catalogue_manager.png /></p><p align="center"> รูปที่ 3.6 เมนู order dowload catalogue manager </p><p align="center"> เมื่อคลิกที่เมนู order dowload catalogue manager จะย้ายไปที่หน้า <a href=/docs/catalogue/catalogue.md >order dowload catalogue manager</a></p>
 
 > #### 3.7 เมนู order dowload catalogue manager 
-> <p align="center"><img src=imgs/menu_list_order_dowload_catalogue_manager.png /></p><p align="center"> รูปที่ 3.7 เมนู order dowload catalogue manager </p><p align="center"> เมื่อคลิกที่เมนู order dowload catalogue manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >order dowload catalogue manager</a></p>
+> <p align="center"><img src=imgs/menu_list_order_dowload_catalogue_manager.png /></p><p align="center"> รูปที่ 3.7 เมนู order dowload catalogue manager </p><p align="center"> เมื่อคลิกที่เมนู order dowload catalogue manager จะย้ายไปที่หน้า <a href=/docs/catalogue/catalogue.md >order dowload catalogue manager</a></p>
 
 > #### 3.8 เมนู order contact manager 
-> <p align="center"><img src=imgs/menu_list_order_contact_manager.png /></p><p align="center"> รูปที่ 3.8 เมนู order contact manager </p><p align="center"> เมื่อคลิกที่เมนู order contact manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >order contact manager</a></p>
+> <p align="center"><img src=imgs/menu_list_order_contact_manager.png /></p><p align="center"> รูปที่ 3.8 เมนู order contact manager </p><p align="center"> เมื่อคลิกที่เมนู order contact manager จะย้ายไปที่หน้า <a href=/docs/order_contact/order_contact.md >order contact manager</a></p>
 
 > #### 3.9 เมนู collection manager 
-> <p align="center"><img src=imgs/menu_list_collection_manager.png /></p><p align="center"> รูปที่ 3.9 เมนู collection manager </p><p align="center"> เมื่อคลิกที่เมนู collection manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >collection manager</a></p>
+> <p align="center"><img src=imgs/menu_list_collection_manager.png /></p><p align="center"> รูปที่ 3.9 เมนู collection manager </p><p align="center"> เมื่อคลิกที่เมนู collection manager จะย้ายไปที่หน้า <a href=/docs/collection/collection.md >collection manager</a></p>
 
 > #### 3.10 เมนู reference manager 
-> <p align="center"><img src=imgs/menu_list_reference_manager.png /></p><p align="center"> รูปที่ 3.10 เมนู reference manager </p><p align="center"> เมื่อคลิกที่เมนู reference manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >reference manager</a></p>
+> <p align="center"><img src=imgs/menu_list_reference_manager.png /></p><p align="center"> รูปที่ 3.10 เมนู reference manager </p><p align="center"> เมื่อคลิกที่เมนู reference manager จะย้ายไปที่หน้า <a href=/docs/reference/reference.md >reference manager</a></p>
 
 > #### 3.11 เมนู product manager 
-> <p align="center"><img src=imgs/menu_list_product_manager.png /></p><p align="center"> รูปที่ 3.11 เมนู product manager </p><p align="center"> เมื่อคลิกที่เมนู product manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >product manager</a></p>
+> <p align="center"><img src=imgs/menu_list_product_manager.png /></p><p align="center"> รูปที่ 3.11 เมนู product manager </p><p align="center"> เมื่อคลิกที่เมนู product manager จะย้ายไปที่หน้า <a href=/docs/production/production.md >product manager</a></p>
 
 > #### 3.12 เมนู product care manager 
-> <p align="center"><img src=imgs/menu_list_product_care_manager.png /></p><p align="center"> รูปที่ 3.12 เมนู product care manager </p><p align="center"> เมื่อคลิกที่เมนู product care manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >product care manager</a></p>
+> <p align="center"><img src=imgs/menu_list_product_care_manager.png /></p><p align="center"> รูปที่ 3.12 เมนู product care manager </p><p align="center"> เมื่อคลิกที่เมนู product care manager จะย้ายไปที่หน้า <a href=/docs/product_care/product_care.md >product care manager</a></p>
 
 > #### 3.13 เมนู catalogue manager 
-> <p align="center"><img src=imgs/menu_list_catalogue_manager.png /></p><p align="center"> รูปที่ 3.13 เมนู catalogue manager </p><p align="center"> เมื่อคลิกที่เมนู catalogue manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >catalogue manager</a></p>
+> <p align="center"><img src=imgs/menu_list_catalogue_manager.png /></p><p align="center"> รูปที่ 3.13 เมนู catalogue manager </p><p align="center"> เมื่อคลิกที่เมนู catalogue manager จะย้ายไปที่หน้า <a href=/docs/catalogue/catalogue.md >catalogue manager</a></p>
 
 > #### 3.14 เมนู components 
 > <p align="center"><img src=imgs/menu_list_components.png /></p><p align="center"> รูปที่ 3.14 เมนู components </p><p align="center"> 
@@ -71,29 +71,29 @@
 > <p align="center"><img src=imgs/menu_list_wallpaper_manager.png /></p><p align="center"> รูปที่ 3.15 เมนู wallpaper manager </p><p align="center"> เมื่อคลิกที่เมนู wallpaper manager จะย้ายไปที่หน้า <a href=/docs/highlight/highlight.md#11-จัดการ-วอล์เปเปอร์-สไลด์ >wallpaper manager</a></p>
 
 > #### 3.16 เมนู wallpaper video manager 
-> <p align="center"><img src=imgs/menu_list_wallpaper_by_video_manager.png /></p><p align="center"> รูปที่ 3.16 เมนู wallpaper video manager </p><p align="center"> เมื่อคลิกที่เมนู wallpaper video manager จะย้ายไปที่หน้า <a href=/docs/highlight/highlight.md#11-จัดการ-วิดีโอ-วอล์เปเปอร์ >wallpaper video manager</a></p>
+> <p align="center"><img src=imgs/menu_list_wallpaper_by_video_manager.png /></p><p align="center"> รูปที่ 3.16 เมนู wallpaper video manager </p><p align="center"> เมื่อคลิกที่เมนู wallpaper video manager จะย้ายไปที่หน้า <a href=/docs/highlight/highlight.md#21-จัดการ-วิดีโอ-วอล์เปเปอร์ >wallpaper video manager</a></p>
 
 > #### 3.17 เมนู branch manager 
-> <p align="center"><img src=imgs/menu_list_branch_manager.png /></p><p align="center"> รูปที่ 3.17 เมนู branch manager </p><p align="center"> เมื่อคลิกที่เมนู branch manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >branch manager</a></p>
+> <p align="center"><img src=imgs/menu_list_branch_manager.png /></p><p align="center"> รูปที่ 3.17 เมนู branch manager </p><p align="center"> เมื่อคลิกที่เมนู branch manager จะย้ายไปที่หน้า <a href=/docs/contact/contact.md >branch manager</a></p>
 
 > #### 3.18 เมนู join our team manager 
-> <p align="center"><img src=imgs/menu_list_join_our_team_manager.png /></p><p align="center"> รูปที่ 3.18 เมนู join our team manager </p><p align="center"> เมื่อคลิกที่เมนู join our team manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >join our team manager</a></p>
+> <p align="center"><img src=imgs/menu_list_join_our_team_manager.png /></p><p align="center"> รูปที่ 3.18 เมนู join our team manager </p><p align="center"> เมื่อคลิกที่เมนู join our team manager จะย้ายไปที่หน้า <a href=/docs/join_our_team/join_our_team.md >join our team manager</a></p>
 
 > #### 3.19 เมนู newsletter page manager 
-> <p align="center"><img src=imgs/menu_list_newsletter_page_manager.png /></p><p align="center"> รูปที่ 3.19 เมนู newsletter page manager </p><p align="center"> เมื่อคลิกที่เมนู newsletter page manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >newsletter page manager</a></p>
+> <p align="center"><img src=imgs/menu_list_newsletter_page_manager.png /></p><p align="center"> รูปที่ 3.19 เมนู newsletter page manager </p><p align="center"> เมื่อคลิกที่เมนู newsletter page manager จะย้ายไปที่หน้า <a href=/docs/newsletter/newsletter.md >newsletter page manager</a></p>
 
 > #### 3.20 เมนู about us 
 > <p align="center"><img src=imgs/menu_list_about_us.png /></p><p align="center"> รูปที่ 3.20 เมนู about us </p><p align="center"> 
 > <p align="center"><img src=imgs/menu_list_about_us_open.png /></p><p align="center"> รูปที่ 3.20-a เมนู about us open </p><p align="center"> เมื่อคลิกที่เมนู about us จะเปิด เมนู about us ดังรูปที่ 3.20-a
 
 > #### 3.21 เมนู company profile manager 
-> <p align="center"><img src=imgs/menu_list_company_profile_manager.png /></p><p align="center"> รูปที่ 3.21 เมนู company profile manager </p><p align="center"> เมื่อคลิกที่เมนู company profile manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >company profile manager</a></p>
+> <p align="center"><img src=imgs/menu_list_company_profile_manager.png /></p><p align="center"> รูปที่ 3.21 เมนู company profile manager </p><p align="center"> เมื่อคลิกที่เมนู company profile manager จะย้ายไปที่หน้า <a href=/docs/company_profile/company_profile.md >company profile manager</a></p>
 
 > #### 3.22 เมนู kenkoon hq manager 
-> <p align="center"><img src=imgs/menu_list_kenkoon_hq_manager.png /></p><p align="center"> รูปที่ 3.22 เมนู kenkoon hq manager </p><p align="center"> เมื่อคลิกที่เมนู kenkoon hq manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >kenkoon hq manager</a></p>
+> <p align="center"><img src=imgs/menu_list_kenkoon_hq_manager.png /></p><p align="center"> รูปที่ 3.22 เมนู kenkoon hq manager </p><p align="center"> เมื่อคลิกที่เมนู kenkoon hq manager จะย้ายไปที่หน้า <a href=/docs/kenkoon_hq/kenkoon_hq.md >kenkoon hq manager</a></p>
 
 > #### 3.23 เมนู our designer manager 
-> <p align="center"><img src=imgs/menu_list_our_designer_manager.png /></p><p align="center"> รูปที่ 3.23 เมนู our designer manager </p><p align="center"> เมื่อคลิกที่เมนู our designer manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >our designer manager</a></p>
+> <p align="center"><img src=imgs/menu_list_our_designer_manager.png /></p><p align="center"> รูปที่ 3.23 เมนู our designer manager </p><p align="center"> เมื่อคลิกที่เมนู our designer manager จะย้ายไปที่หน้า <a href=/docs/our_designers/our_designers.md >our designer manager</a></p>
 
 > #### 3.23 เมนู register 
 > <p align="center"><img src=imgs/menu_list_register.png /></p><p align="center"> รูปที่ 3.23 เมนู register manager </p><p align="center"> เมื่อคลิกที่เมนู register manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >register manager</a></p>
