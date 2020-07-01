@@ -11,7 +11,7 @@
 
 ### 2. แทบเมนู
 
-> ผู้ใช้งานสามารถกดเลือกที่ปุ่มแทบเมนูเพื่อ ไปยังหน้านั้นๆ
+> ผู้ใช้งานสามารถกดเลือกที่ปุ่มแทบเมนูเพื่อ ไปยังหน้านั้นๆ
 > <p align="center"><img src=imgs/tab_menu_not_open.png></p>
 
 <p align="center"> รูปที่ 2 แทบเมนู ที่ยังไม่ได้เปิด</p>
@@ -25,7 +25,7 @@
 <p align="center"> เมนูแต่ละเมนู จะนำพาไปสู่หน้านั้นๆ ตามชื่อของเมนู </p>
 
 > #### 3.1 เมนู dashboard 
-> <p align="center"><img src=imgs/menu_list_dashboard.png /></p><p align="center"> รูปที่ 3.1 มนู dashboard </p><p align="center"> เมื่อคลิกที่เมนู dashboard จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >dashboard</a></p>
+> <p align="center"><img src=imgs/menu_list_dashboard.png /></p><p align="center"> รูปที่ 3.1 มนู dashboard </p><p align="center"> เมื่อคลิกที่เมนู dashboard จะย้ายไปที่หน้า <a href=/docs/recommend/recommend.md#1-หน้า-home-page >dashboard</a></p>
 
 > #### 3.2 เมนู log manager 
 > <p align="center"><img src=imgs/menu_list_log_manager.png /></p><p align="center"> รูปที่ 3.2 เมนู log manager </p><p align="center"> เมื่อคลิกที่เมนู log manager จะย้ายไปที่หน้า <a href=/docs/dashboard/dashboard.md >log manager</a></p>
